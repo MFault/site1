@@ -13,5 +13,5 @@ Disallow: /members/signup*
 Disallow:
 
 
-Sitemap: http://poa-dpo.tilda.ws/sitemap.xml
-Host: poa-dpo.tilda.ws
+Sitemap:https://fsinpage2.pages.dev/sitemap.xml
+Host: fsinpage2.pages.dev
